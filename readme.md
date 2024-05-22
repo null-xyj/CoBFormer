@@ -6,7 +6,7 @@ To run our code, you should first configure your Python environment with Anacond
 
 ```shell
 conda create -n cobformer python=3.10
-conda activate cobforer
+conda activate cobformer
 conda install --yes --file requirements.txt
 ```
 
